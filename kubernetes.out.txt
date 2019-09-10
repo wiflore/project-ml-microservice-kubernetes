@@ -1,0 +1,7 @@
+(base) macbook-air:project-ml-microservice-kubernetes JamesAir$ ./make_prediction.sh
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
