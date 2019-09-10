@@ -9,14 +9,14 @@ You are given a pre-trained, `sklearn` model that has been trained to predict ho
 ## Files explanation
 
 
-app.py: Flask app that serves out predictions about housing prices through API calls
-Dockerfile: Dockerfile for building the image
-Makefile: includes instructions on environment setup and lint tests
-run_docker.sh: file to be able to get Docker running, locally
-run_kubernetes.sh: file to run the app in kubernetes
-upload_docker.sh: file to upload the image to docker
-make_prediction.sh: Send a request to the Python flask app to get a prediction
-config.yml: CircleCI configuration file for running the tests
+app.py: Flask app that serves out predictions about housing prices through API calls . 
+Dockerfile: Dockerfile for building the image . 
+Makefile: includes instructions on environment setup and lint tests . 
+run_docker.sh: file to be able to get Docker running, locally . 
+run_kubernetes.sh: file to run the app in kubernetes . 
+upload_docker.sh: file to upload the image to docker . 
+make_prediction.sh: Send a request to the Python flask app to get a prediction . 
+config.yml: CircleCI configuration file for running the tests . 
 
 ---
 
